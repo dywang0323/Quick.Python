@@ -20,3 +20,9 @@ print("hello, " + full_name.title() + "!")
 
 message = "hello, " + full_name.title() + "!"
 print(message)
+
+# Tabs or newlines to add space
+
+print("\tpython")
+print("Language:\npython\nC\nJavaScript")
+print("Language:\n\tPython\n\tC\n\tJavaScript")
